@@ -1,1 +1,3 @@
-#Erin Jordan React Portfolio
+Erin Jordan React Portfolio
+
+Description
